@@ -1,2 +1,2 @@
 # DiscNet
-Disc[overy] Net Neural Network Emulation Environment
+Accretion Disc[overy] Net Neural Network Emulation Environment
